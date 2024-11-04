@@ -66,4 +66,6 @@ const GameConfig = {
     color : [255,255,0],
     size :50
   }
+
+  // *** l0rdyolo ***
 };
